@@ -5,7 +5,9 @@
 .installed.cfg
 .mr.developer*
 .settings
+*.pyc
 etc/salt.txt
+etc/login_providers.ini
 bin
 include
 lib
@@ -13,4 +15,3 @@ eggs
 develop-eggs
 parts
 src
-
