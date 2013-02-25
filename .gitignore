@@ -6,6 +6,7 @@
 .mr.developer*
 .settings
 etc/salt.txt
+etc/login_providers.ini
 bin
 include
 lib
