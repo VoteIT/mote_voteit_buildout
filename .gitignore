@@ -14,4 +14,4 @@ eggs
 develop-eggs
 parts
 src
-
+*.pyc
